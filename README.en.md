@@ -1,6 +1,6 @@
 # Thresh in Support Role: A Personal Performance Analysis (League of Legends)
 
-[Português](README.md) | English
+English | [Português](README.md)
 
 An analysis of ranked League of Legends matches, built on the official Riot Games API. The central question: what separates winning and losing games for a support player, in this case Thresh?
 

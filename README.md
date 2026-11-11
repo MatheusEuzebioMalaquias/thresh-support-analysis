@@ -1,6 +1,6 @@
 # Análise de Thresh no suporte (League of Legends)
 
-English | [Português](README.md)
+[English](README.en.md) | Português
 
 Projeto de análise de partidas ranqueadas de League of Legends, usando a API oficial da Riot Games. A pergunta central é: o que diferencia as partidas vencidas e perdidas de um suporte, neste caso o Thresh?
 

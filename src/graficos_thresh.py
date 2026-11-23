@@ -7,7 +7,7 @@ df["resultado"] = df["vitoria"].map({True: "Vitória", False: "Derrota"})
 ordem = ["Derrota", "Vitória"]
 
 fig, eixos = plt.subplots(1, 2, figsize=(11, 5))
-fig.suptitle("Thresh no suporte: suas 66 partidas ranqueadas", fontsize=14, fontweight="bold")
+fig.suptitle("Thresh no suporte: suas 60 partidas ranqueadas", fontsize=14, fontweight="bold")
 
 # Painel 1: KDA
 dados_kda = [df.loc[df["resultado"] == r, "kda"] for r in ordem]
